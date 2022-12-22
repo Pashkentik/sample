@@ -13,7 +13,9 @@
    background-size: cover;  
     height: 374px;
 }
+
 h3 {
+   position: relative;
    font-family: 'Lato';
    font-weight: 600;
 }
