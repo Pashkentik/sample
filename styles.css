@@ -9,8 +9,9 @@
 }
 .imgs {
    width: 100%;
-   background: url(./imgs/wOKhyg5j_Dr1PIsMn_ziu2h5u171dGcKRR248OAyPBxYmc-4Awm6PzFlsj_B.jpeg) no-repeat center;
-   height: 374px;
+   background: url(./imgs/wOKhyg511.jpg) no-repeat center;
+   background-size: cover;  
+    height: 374px;
 }
 h3 {
    font-family: 'Lato';
